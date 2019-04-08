@@ -1,9 +1,9 @@
 ## 前言
-关于我
-专注于前端开发和街头摄影，喜欢阅读、编码、游泳、摄影！
-微信号：Angelo_Sifan
-个人博客：https://www.cnblogs.com/EdisonVan/
-GitHub:https://github.com/EdisonVan
+> 关于我
+- 专注于前端开发和街头摄影，喜欢阅读、编码、游泳、摄影！
+- 微信号：Angelo_Sifan
+- 个人博客：https://www.cnblogs.com/EdisonVan/
+- GitHub:https://github.com/EdisonVan
 
 ## 1. 项目描述/需求
 - 视图还原
